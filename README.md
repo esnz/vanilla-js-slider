@@ -1,2 +1,2 @@
-# vanilla-js-slider
-Simple vanilla javascript slider
+# Vanilla JS Slider
+Simple slider created with pure javascript, html and css
